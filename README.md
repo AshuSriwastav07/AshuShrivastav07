@@ -1,17 +1,42 @@
-# 💫 About Me:
-I am Learning App Development and Web Development.<br>I have completed my Graduation from Delhi University in Arts. <br>I'm interested in Java, Kotlin, Python and Web Development.<br>Main Project 1 is The Learners Community DU SOL for DU Students.<br>Main Project 2 is NGO Finder Help user to Find NGO for Helping.<br><br>
+<h1 align="center">Hi 👋, I'm Ashu Sriwastav</h1>
+<h3 align="center">A passionate Android Developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashusriwastav07&label=Profile%20views&color=0e75b6&style=flat" alt="ashusriwastav07" /> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am_ashu_shrivastav/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashu-sriwastav-949b09272) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/i_am_shrivastav) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashusriwastav07" alt="ashusriwastav07" /></a> </p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=AshuSriwastav07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshuSriwastav07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🔭 I’m currently working on [The Learners Community DU SOL](https://github.com/AshuSriwastav07/The-Learners-Community-DU-SOL)
 
----
-[![](https://visitcount.itsvg.in/api?id=AshuSriwastav07&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🌱 I’m currently learning **API, Frontend Development and DSA**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 👯 I’m looking to collaborate on [NGO Finder](https://github.com/AshuSriwastav07/FindNGO)
+
+- 👨‍💻 All of my projects are available at [https://github.com/AshuSriwastav07](https://github.com/AshuSriwastav07)
+
+- 💬 Ask me about **Java, Kotlin, Python, SQLite**
+
+- 📫 How to reach me **ashusriwastav58@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/ashu-sriwastav-949b09272/](https://www.linkedin.com/in/ashu-sriwastav-949b09272/)
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/ashusriwastav07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ashusriwastav07" height="30" width="40" /></a>
+<a href="https://twitter.com/i_am_ashu07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_ashu07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashu-sriwastav-949b09272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashu-sriwastav-949b09272" height="30" width="40" /></a>
+<a href="https://instagram.com/i_am_ashu_shrivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_ashu_shrivastav" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ashusriwastav07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashusriwastav07" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashusriwastav07&show_icons=true&locale=en&layout=compact" alt="ashusriwastav07" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashusriwastav07&show_icons=true&locale=en" alt="ashusriwastav07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashusriwastav07&" alt="ashusriwastav07" /></p>
