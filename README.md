@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashusriwastav07" alt="ashusriwastav07" /></a> </p>
 
-- 🔭 I’m currently working on [The Learners Community DU SOL](https://github.com/AshuSriwastav07/The-Learners-Community-DU-SOL)
+- 🔭 I’m currently working on [Post](https://github.com/AshuSriwastav07/Post)
 
 - 🌱 I’m currently learning **API, Frontend Development and DSA**
 
-- 👯 I’m looking to collaborate on [NGO Finder](https://github.com/AshuSriwastav07/FindNGO)
+- 👯 I’m looking to collaborate on [Post](https://github.com/AshuSriwastav07/Post)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshuSriwastav07](https://github.com/AshuSriwastav07)
 
